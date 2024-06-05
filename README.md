@@ -5,6 +5,7 @@ Rank homologous protein sequences based on a regressor trained on experimental m
 Jupyter Notebook for searching homologous proteins with good predicted experimental measures from metagenomic database.\
 It will train a regressor on protein Language Model embeddings and experimental measures,\
 search for homologous proteins in a metagenomic database, and rank them based on the regressor.\
+You can also use the Jupyter Notebook via Google Colab by the following link: https://seekrank.steineggerlab.com \
 Please see the notebook for more details.
 
 ### FacebookEmbeddings.ipynb
