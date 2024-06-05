@@ -10,5 +10,5 @@ Please see the notebook for more details.
 ## FacebookEmbeddings.ipynb
 Jupyter Notebook used for producing results in the paper below.
 
-## Citation <with_hyperlink>
+## Citation
 Eom, Hyunuk, et al. "Discovery of Highly Active Kynureninases for Cancer Immunotherapy through Protein Language Model." bioRxiv (2024): 2024-01. doi: https://doi.org/10.1101/2024.01.16.575968
