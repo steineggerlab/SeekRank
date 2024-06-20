@@ -8,7 +8,7 @@ search for homologous proteins in a metagenomic database, and rank them based on
 You can also use the Jupyter Notebook via Google Colab by the following link: https://seekrank.steineggerlab.com \
 Please see the notebook for more details.
 
-### FacebookEmbeddings.ipynb
+### Regressor_paper.ipynb
 Jupyter Notebook used for producing results in the paper below.
 
 ### Citation
