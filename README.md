@@ -28,6 +28,7 @@ You can also use the Jupyter Notebook via Google Colab by the following link: ht
 - top_ranked_target_list.tsv: Contains names, predicted experimental values, and sequences of the targets on each column respectively, sorted by predicted values.
     ```
     seq_id  predicted_experimental_value    protein_sequence
+    A0A261TMR2  0.975792    MHTREACLQA...
     ```
 
 ## Regressor_paper.ipynb
@@ -50,12 +51,12 @@ and the difference in the database searched against the training sequences.\
     2. Upload `training_seqs.fasta` in the repository or your own training data in the `/content`. If you are using your own training data, please change a directory in the notebook in the section `1.1 Preparing data for training`.
     3. Run the notebook.
 
-### It will produce two output files:
-- `esm1b_nonredundant.m8`: Nonredundant mmseqs2 output file for searching homologous proteins in the metagenomic database.
+### Output file:
 - `target_prediction.tsv`: Predicted experimental measures for the homologous proteins in the metagenomic database based on three different regressors.\
     The file format is as follows:
     ```
-    seq_id  KNeighborsRegressor SVR RandomForestRegressor
+    seq_id  KNeighborsRegressor SVR RandomForestRegressor   protein_sequence
+    10034|scaffold453036_1|+110|01  47184.0 40469.28496161223   44026.08    MAAVGKP...
     ```
 
 ## Citation
