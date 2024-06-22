@@ -7,7 +7,7 @@ SeekRank can predict and rank any experimental measures user desires for homolog
 ## SeekRank.ipynb
 Jupyter Notebook for searching homologous proteins with good predicted experimental measures from metagenomic database (Colabfold database).\
 It will train a regressor on protein Language Model embeddings and experimental measures, search for homologous proteins in a metagenomic database, and rank them based on the regressor.\
-You can also use the Jupyter Notebook via Google Colab by the following link: https://seekrank.steineggerlab.com\
+You can also use the Jupyter Notebook via Google Colab by the following link: https://seekrank.steineggerlab.com
 
 ### How to run
 - You need one fasta file containing protein sequences and experimental values for the sequences.\
