@@ -59,5 +59,5 @@ and the difference in the database searched against the training sequences (usin
     10034|scaffold453036_1|+110|01  47184.0 40469.28496161223   44026.08    MAAVGKP...
     ```
 
-## Citation
-Eom, Hyunuk, et al. "Discovery of Highly Active Kynureninases for Cancer Immunotherapy through Protein Language Model." bioRxiv (2024): 2024-01. doi: https://doi.org/10.1101/2024.01.16.575968
+## Publications
+Eom, Hyunuk, et al. "Discovery of highly active kynureninases for cancer immunotherapy through protein language model." Nucleic Acids Research 53.1 (2025), doi: https://doi.org/10.1093/nar/gkae1245
